@@ -41,6 +41,6 @@
   "main": "chosen.jquery.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/harvesthq/chosen.git"
+    "url": "https://github.com/jamesalbert/chosen.git"
   }
 }
